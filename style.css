@@ -1,0 +1,81 @@
+.profile-card {
+  margin-top: 30px;
+}
+
+.profile-pic {
+  max-width: 100%;
+}
+
+.profile-ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+.hp-card {
+  margin: 30px 0 0 0;
+}
+
+.hp-flex {
+  padding: 10px 30px 0 30px;
+}
+
+
+.health-box {
+  background-color: #ccc;
+  height: 30px;
+  margin: 10px 30px 10px 30px;
+  border: solid 1px #aaa;
+}
+
+.health-bar {
+  background-color: #007f00;
+  width: inherit;
+  height: 28px;
+  position: relative;
+  bottom: 56px;
+}
+
+.health-bar-red {
+  width: 100%;
+  height: 100%;
+  background-color: #cc0000;
+}
+
+.health-bar-blue {
+  width: 100%;
+  height: 100%;
+  background-color: #3bd3df;
+  bottom: 28px;
+  position: relative;
+}
+
+.health-bar-text {
+  position: relative;
+  bottom: 80px;
+}
+
+.total {
+  font-size: 16px;
+  margin: 5px;
+}
+
+
+.att-card {
+  margin-top: 10px;
+}
+
+#atributos-header {
+  font-size: 1.3rem;
+}
+
+.att-list {
+  margin: 0 0 0 3rem;
+  font-size: 1.3rem;
+}
+
+.atributo {
+  font-size: 1.3rem;
+  padding: 0 0 0 30px;
+}
