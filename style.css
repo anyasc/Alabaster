@@ -96,5 +96,11 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 #backstory-content {
   margin: 20px 5vw 0 30vw;
-  font-size: 1.1rem;
+  font-size: 1rem;
+  text-align: justify;
+}
+
+#backstory-content > p {
+  margin: 5px;
+  text-indent: 40px;
 }
